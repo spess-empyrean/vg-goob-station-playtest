@@ -22,7 +22,7 @@
     - BaseStationAlertLevels
     - BaseStationMagnet
     - BaseStationExpeditions
-    - BaseStationSiliconLawCrewsimov
+    - BaseStationSiliconLawAsimov
     - BaseStationAllEventsEligible
     - BaseStationNanotrasen
     - BaseStationMail # Nyano component, required for station mail to function
