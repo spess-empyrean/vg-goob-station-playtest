@@ -171,6 +171,7 @@
 - type: construction
   id: ShelfBar
   name: bar shelf
+  fuzzyname: bartender shelf
   description: A convenient place for all your extra booze, specifically designed to hold more bottles!
   graph: Shelf
   startNode: start
@@ -187,6 +188,7 @@
 - type: construction
   id: ShelfKitchen
   name: kitchen shelf
+  fuzzyname: chef cook kitchen shelf
   description: Holds your knifes, spice, and everything nice!
   graph: Shelf
   startNode: start
@@ -203,6 +205,7 @@
 - type: construction
   id: ShelfChemistry
   name: chemical shelf
+  fuzzyname: chemical chemistry shelf
   description: Perfect for keeping the most important chemicals safe, and out of the clumsy clowns hands!
   graph: Shelf
   startNode: start

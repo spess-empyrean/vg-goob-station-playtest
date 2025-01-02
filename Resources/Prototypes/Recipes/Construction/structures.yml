@@ -846,6 +846,7 @@
 
 - type: construction
   name: glass shutter
+  fuzzyname: glass shutter window
   id: ShuttersWindow
   graph: Shutters
   startNode: start
@@ -1537,6 +1538,7 @@
 #conveyor
 - type: construction
   name: conveyor belt
+  fuzzyname: conveyor belt cargo
   id: ConveyorBelt
   graph: ConveyorGraph
   startNode: start

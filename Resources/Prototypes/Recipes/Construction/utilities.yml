@@ -357,6 +357,7 @@
 
 - type: construction
   name: fire alarm
+  fuzzyname: atmospherics fire alarm
   id: FireAlarm
   graph: FireAlarm
   startNode: start
